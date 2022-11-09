@@ -31,4 +31,3 @@ The read out circuit that has been used in our project is based on a CTNI test. 
   <li>THE DISPLAY SECTION: Development of an app which was bluetooth controlled</li>
 </ul> 
 
-## Software Section of the Project
